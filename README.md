@@ -1,29 +1,46 @@
-# Galaxy on Fire 2 FULL HD Android
+<div align="center">
 
-[![The Kaamo Club - Galaxy on Fire](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/total)
-![GitHub Release](https://shields.io/github/release/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android)
-[![4PDA Topic](https://img.shields.io/badge/-4PDA_GOF2-0854C1)](https://4pda.to/forum/index.php?showtopic=483666)
+# Galaxy on Fire 2 FULL HD — Android
 
-### Galaxy on Fire 2 FHD for Android is a fan-made retexturing and enhancement project.
+**A fan-made retexturing and enhancement project for Galaxy on Fire 2 on Android.**
 
-<img width="1920" height="1079" alt="20260914_163203HD-Player" src="https://github.com/user-attachments/assets/79454301-6a2b-49e8-ab68-9296d2028d00" />
+[![Discord](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
+[![X (Twitter)](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
+[![Downloads](https://img.shields.io/github/downloads/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/total)](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/releases)
+[![Release](https://img.shields.io/github/release/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android)](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/releases/latest)
+[![4PDA](https://img.shields.io/badge/-4PDA_GOF2-0854C1)](https://4pda.to/forum/index.php?showtopic=483666)
 
+</div>
 
-☆ This project began with the aim of improving the Android version by utilizing original assets from the macOS, Windows, and iPhone versions of the game.
+> [!IMPORTANT]
+> **This 32-bit version will no longer receive updates.**
+> Development continues in the **[64-bit version](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits)**, which runs on modern devices that cannot install 32-bit apps and brings new features and fixes. The releases here stay available for devices that still run 32-bit apps.
 
-☆ Interface modifications were also implemented, and FPS limits were removed. You can find further details about the changes in the release changelogs.
+## About
 
-☆ Before starting the mod installation, check if your device supports 32-bit apps, as the current version of the mod does not include 64-bit support. For more information, check the "read-me" file included in the installation files.
+Galaxy on Fire 2 FHD for Android uses the original assets from the macOS, Windows and iPhone versions to bring the Android game closer to them. It also includes interface changes and removes the FPS limit. The details of each version are in the changelog of its [release](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/releases).
 
-### ☆ The game includes two types of economy:
-- Original economy (original price): The game's original economy, present on macOS, Windows, and iPhone.
-- Android economy (android price): This refers to the pricing specific to the Android version, where the costs of certain pieces of equipment and the resource quantities required for blueprints are very high.
+## Requirements
 
-### ☆ Many of the included modifications came from 4PDA community projects created by users Dhаmpir, atang, Droid378, leningroz, and Ворон, and also for users Ravenstal, meng00701, Bibifire, Pb-207, and KrYcHokE. Thank you very much for your contribution.
+> [!WARNING]
+> This version has **no 64-bit support**. Check that your device can still run 32-bit apps before installing it. Many recent phones cannot; on those, use the [64-bit version](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits).
 
-Below are some screenshots taken using the BlueStacks 5 emulator.
+## Economy
 
-<img width="2880" height="1889" alt="20260907_135317HD-Player" src="https://github.com/user-attachments/assets/a2a45302-811d-4f49-88f1-85f0400afca1" />
+The game includes two types of economy:
 
+- **Default economy:** the prices of the macOS, Windows and iPhone versions.
+- **Android economy:** much higher costs for some equipment and for the resources needed by blueprints.
+
+## Screenshots
+
+![Screenshot](https://github.com/user-attachments/assets/79454301-6a2b-49e8-ab68-9296d2028d00)
+![Screenshot](https://github.com/user-attachments/assets/a2a45302-811d-4f49-88f1-85f0400afca1)
+
+## Credits
+
+Many of the included modifications came from 4PDA community projects created by **Dhаmpir, atang, Droid378, leningroz, Ворон, Ravenstal, meng00701, Bibifire, Pb-207** and **KrYcHokE**. Thank you!
+
+---
+
+<sub>This is a non-commercial fan project and is not affiliated with FISHLABS or Deep Silver. Galaxy on Fire 2 and its assets belong to their respective owners.</sub>
