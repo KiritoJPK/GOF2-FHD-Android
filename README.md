@@ -10,6 +10,8 @@
 [![Release](https://img.shields.io/github/release/KiritoJPK/GOF2-FHD-Android)](https://github.com/KiritoJPK/GOF2-FHD-Android/releases/latest)
 [![4PDA](https://img.shields.io/badge/-4PDA_GOF2-0854C1)](https://4pda.to/forum/index.php?showtopic=483666)
 
+**[⬇ Download the latest release](https://github.com/KiritoJPK/GOF2-FHD-Android/releases/latest)**
+
 </div>
 
 > [!IMPORTANT]
