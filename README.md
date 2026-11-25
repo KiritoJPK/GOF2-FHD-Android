@@ -6,24 +6,24 @@
 
 [![Discord](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
 [![X (Twitter)](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
-[![Downloads](https://img.shields.io/github/downloads/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/total)](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/releases)
-[![Release](https://img.shields.io/github/release/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android)](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/KiritoJPK/GOF2-FHD-Android/total)](https://github.com/KiritoJPK/GOF2-FHD-Android/releases)
+[![Release](https://img.shields.io/github/release/KiritoJPK/GOF2-FHD-Android)](https://github.com/KiritoJPK/GOF2-FHD-Android/releases/latest)
 [![4PDA](https://img.shields.io/badge/-4PDA_GOF2-0854C1)](https://4pda.to/forum/index.php?showtopic=483666)
 
 </div>
 
 > [!IMPORTANT]
 > **This 32-bit version will no longer receive updates.**
-> Development continues in the **[64-bit version](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits)**, which runs on modern devices that cannot install 32-bit apps and brings new features and fixes. The releases here stay available for devices that still run 32-bit apps.
+> Development continues in the **[64-bit version](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit)**, which runs on modern devices that cannot install 32-bit apps and brings new features and fixes. The releases here stay available for devices that still run 32-bit apps.
 
 ## About
 
-Galaxy on Fire 2 FHD for Android uses the original assets from the macOS, Windows and iPhone versions to bring the Android game closer to them. It also includes interface changes and removes the FPS limit. The details of each version are in the changelog of its [release](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android/releases).
+Galaxy on Fire 2 FHD for Android uses the original assets from the macOS, Windows and iPhone versions to bring the Android game closer to them. It also includes interface changes and removes the FPS limit. The details of each version are in the changelog of its [release](https://github.com/KiritoJPK/GOF2-FHD-Android/releases).
 
 ## Requirements
 
 > [!WARNING]
-> This version has **no 64-bit support**. Check that your device can still run 32-bit apps before installing it. Many recent phones cannot; on those, use the [64-bit version](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits).
+> This version has **no 64-bit support**. Check that your device can still run 32-bit apps before installing it. Many recent phones cannot; on those, use the [64-bit version](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit).
 
 ## Economy
 
