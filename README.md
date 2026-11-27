@@ -12,6 +12,9 @@
 
 **[⬇ Download the latest release](https://github.com/KiritoJPK/GOF2-FHD-Android/releases/latest)**
 
+If you liked the project and would like to help me keep it going with a donation, I would be very grateful. [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/kiritojpk)
+
+
 </div>
 
 > [!IMPORTANT]
